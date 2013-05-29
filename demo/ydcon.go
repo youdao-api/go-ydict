@@ -3,7 +3,7 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"github.com/daviddengcn/go-ydict"
+	"github.com/youdao-api/go-ydict"
 	"os"
 	"strings"
 )
